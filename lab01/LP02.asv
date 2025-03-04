@@ -1,0 +1,5 @@
+clear all;
+close all;
+
+% Read the image
+I2 = imread('Picture2.png');
